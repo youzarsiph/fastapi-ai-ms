@@ -5,9 +5,13 @@ description = "AI microservice using FastAPI and HuggingFace Hub"
 authors = ["Yousuf Abu Shanab"]
 license = "MIT"
 readme = "README.md"
+packages = [{ include = "fastapi_ai_ms" }]
+homepage = "https://github.com/youzarsiph/fastapi-ai-ms/"
+repository = "https://github.com/youzarsiph/fastapi-ai-ms/"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+aiohttp = "^3.9.5"
 fastapi = "^0.111.0"
 huggingface-hub = "^0.23.4"
 python-dotenv = "^1.0.1"
