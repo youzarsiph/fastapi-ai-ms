@@ -2,7 +2,9 @@
 
 [![Ruff Lint](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/ruff.yml/badge.svg)](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/ruff.yml)
 [![Black Format](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/black.yml/badge.svg)](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/black.yml)
-[![Django CI](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/fastapi.yml/badge.svg)](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/fastapi.yml)
+[![FastAPI CI](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/fastapi.yml/badge.svg)](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/fastapi.yml)
+[![Docker](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/docker-publish.yml)
+[![Docker Image CI](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/docker-image.yml/badge.svg)](https://github.com/youzarsiph/fastapi-hf-hub/actions/workflows/docker-image.yml)
 
 FastAPI AI microservice using HuggingFace Hub
 
